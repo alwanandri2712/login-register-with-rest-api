@@ -7,7 +7,7 @@ import time
 import os
 from getpass import getpass
 
-url = 'URL API KAMU'
+url = 'URL API KAMU sayang'
 
 
 def login():
